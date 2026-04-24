@@ -1,0 +1,15 @@
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\bin\Debug\net9.0\PastaVisual.exe
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\bin\Debug\net9.0\PastaVisual.deps.json
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\bin\Debug\net9.0\PastaVisual.runtimeconfig.json
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\bin\Debug\net9.0\PastaVisual.dll
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\bin\Debug\net9.0\PastaVisual.pdb
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\obj\Debug\net9.0\PastaVisual.GeneratedMSBuildEditorConfig.editorconfig
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\obj\Debug\net9.0\PastaVisual.AssemblyInfoInputs.cache
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\obj\Debug\net9.0\PastaVisual.AssemblyInfo.cs
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\obj\Debug\net9.0\PastaVisual.csproj.CoreCompileInputs.cache
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\obj\Debug\net9.0\PastaVisual.sourcelink.json
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\obj\Debug\net9.0\PastaVisual.dll
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\obj\Debug\net9.0\refint\PastaVisual.dll
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\obj\Debug\net9.0\PastaVisual.pdb
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\obj\Debug\net9.0\PastaVisual.genruntimeconfig.cache
+E:\Guilherme Atividade\AtividadeBranch\PastaVisual\PastaVisual\obj\Debug\net9.0\ref\PastaVisual.dll
